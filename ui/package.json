@@ -59,7 +59,7 @@
     "@univerjs/docs": "0.25.1",
     "@univerjs/docs-ui": "0.25.1",
     "@univerjs/engine-formula": "0.25.1",
-    "@univerjs/engine-render": "0.25.1",
+    "@univerjs/engine-render": "0.25.2",
     "@univerjs/sheets": "0.25.1",
     "@univerjs/sheets-formula": "0.25.1",
     "@univerjs/sheets-formula-ui": "0.25.1",
